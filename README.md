@@ -16,3 +16,4 @@ Future Improvements:
 Ability to determine if you've had the meal in the past two weeks and not duplicate that meal
 Ability to determine if you've had a certain meal in the past week and not generate another similar meal for that week
 Ability to use left overs for another meal in that same week
+Build Google calendar integration in so you can add each meal into a calendar event on your Meal Planning calendar
