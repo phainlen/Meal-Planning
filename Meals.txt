@@ -1,0 +1,38 @@
+Shrimp Alfredo,Seafood,Stovetop
+Chili,American,Crockpot
+BLT,American,Griddle
+Burgers,American,Griddle
+Omeletes,Breakfast,Griddle
+Pancakes,Breakfast,Griddle
+Chicken Tacos,Mexican,Crockpot
+Beef Tacos,Mexican,Crockpot
+Steak Tacos,Mexican,Crockpot
+Mongolian,Asian,Griddle
+Stroganov,Russian,Crockpot
+Baked Tilapia,Seafood,Oven
+Phillies,American,Griddle
+Roast,American,Crockpot
+Enchiladas,Mexican,Oven
+Bolgona Rings,German,Stovetop
+Frozen Pizza,American,Oven
+Homemade Pizza,Italian,Oven
+Sloppy Joes,American,Crockpot
+Salmon,Seafood,Oven
+White Chicken Chili,Mexican,Crockpot
+Chili Mac,American,Instapot
+Ribs,American,Instapot
+Pork Chops,American,Stovetop
+Rotisserie Chicken,American,Oven
+Steaks,American,Stovetop
+Pan Fried Chicken,American,Stovetop
+Grilled Chicken,American,Oven
+Corn on the Cob,American,Stovetop
+Creamy Pasta,Italian,Stovetop
+Baked Ziti,Italian,Oven
+General Tso's,Asian,Crockpot
+Creamy Garlic Butter Tuscan Shrimp,Seafood,Stovetop
+Fried Foods,American,Fryer
+Hot dogs,American,Stovetop
+Subs,American,Griddle
+Sandwiches,American,Griddle
+Jumbalaya,Cajun,Stovetop
