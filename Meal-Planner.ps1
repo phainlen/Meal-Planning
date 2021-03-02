@@ -11,6 +11,11 @@ if (!($Month))
 }
 else
 {
+	if (!($Year))
+	{
+		#Get current year
+		$Year = Get-Date -format yyyy
+	}
 	$FullDate = $Month+"-01-"+$Year
 }
 $year_num = Get-Date($FullDate) -format yyyy
@@ -234,7 +239,7 @@ for ($r=2;$r -le 6;$r++)
 		}
 		elseif ($r -eq 6)
 		{
-			#Fill the end with blanks
+			#Fill the end of the calendar with blanks
 			if ($c -ge $EndFillerStart)
 			{
 				$html_doc+="    <div class='day day--disabled'> </div>`r`n"
