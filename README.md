@@ -1,1 +1,2 @@
 # Meal-Planning
+This PowerShell script will ingest a static file of meals and randomize them and then put them on a monthly calendar so you can budget and plan for groceries and meals for your family.  Meal planning saves huge $$$ because you will buy all of your groceries ahead of time and will not be stumped as to what to cook and when to cook it.  You can even buy your groceries for the week online that way you are not tricked into buying other things as you wander through a store.
