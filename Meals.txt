@@ -36,3 +36,7 @@ Hot dogs,American,Stovetop
 Subs,American,Griddle
 Sandwiches,American,Griddle
 Jumbalaya,Cajun,Stovetop
+Shepards Pie,American,Stovetop
+Grilled Cheese,American,Stovetop
+Huli Huli Chicken,Asian,Grill
+Citrus Shrimp Rice Bowls,Seafood,Stovetop
