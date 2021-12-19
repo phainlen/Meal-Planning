@@ -1,42 +1,47 @@
-Shrimp Alfredo,Seafood,Stovetop
-Chili,American,Crockpot
-BLT,American,Griddle
-Burgers,American,Griddle
-Omeletes,Breakfast,Griddle
-Pancakes,Breakfast,Griddle
-Chicken Tacos,Mexican,Crockpot
-Beef Tacos,Mexican,Crockpot
-Steak Tacos,Mexican,Crockpot
-Mongolian,Asian,Griddle
-Stroganov,Russian,Crockpot
-Baked Tilapia,Seafood,Oven
-Phillies,American,Griddle
-Roast,American,Crockpot
-Enchiladas,Mexican,Oven
-Bolgona Rings,German,Stovetop
-Frozen Pizza,American,Oven
-Homemade Pizza,Italian,Oven
-Sloppy Joes,American,Crockpot
-Salmon,Seafood,Oven
-White Chicken Chili,Mexican,Crockpot
-Chili Mac,American,Instapot
-Ribs,American,Instapot
-Pork Chops,American,Stovetop
-Rotisserie Chicken,American,Oven
-Steaks,American,Stovetop
-Pan Fried Chicken,American,Stovetop
-Grilled Chicken,American,Oven
-Corn on the Cob,American,Stovetop
-Creamy Pasta,Italian,Stovetop
-Baked Ziti,Italian,Oven
-General Tso's,Asian,Crockpot
-Creamy Garlic Butter Tuscan Shrimp,Seafood,Stovetop
-Fried Foods,American,Fryer
-Hot dogs,American,Stovetop
-Subs,American,Griddle
-Sandwiches,American,Griddle
-Jumbalaya,Cajun,Stovetop
-Shepards Pie,American,Stovetop
-Grilled Cheese,American,Stovetop
-Huli Huli Chicken,Asian,Grill
-Citrus Shrimp Rice Bowls,Seafood,Stovetop
+Shrimp Alfredo,Seafood,1234
+Chili,American,124
+BLT,American,1234
+Grilled Burgers,American,3
+Pan Fried Burgers,American,1234
+Breakfast Foods,Breakfast,1234
+Chicken Tacos,Mexican,1234
+Beef Tacos,Mexican,1234
+Steak Tacos,Mexican,1234
+Mongolian,Asian,1234
+Stroganov,Russian,1234
+Baked Tilapia,Seafood,1234
+Phillies,American,1234
+Roast,American,1234
+Enchiladas,Mexican,1234
+Bolgona Rings,German,1234
+Frozen Pizza,American,1234
+Homemade Pizza,Italian,1234
+Sloppy Joes,American,1234
+Grilled Cedar Salmon,Seafood,3
+Baked Bourbon Glazed Salmon,Seafood,1234
+White Chicken Chili,Mexican,124
+Chili Mac,American,1234
+Ribs,American,3
+Grilled Pork Chops,American,3
+Pan Fried Pork Chops,American,1234
+Rotisserie Chicken,American,1234
+Grilled Steaks,American,3
+Pan Fried Steaks,American,1234
+Pan Fried Chicken,American,1234
+Grilled Chicken,American,1234
+Corn on the Cob,American,3
+Baked Ziti,Italian,1234
+General Tso's,Asian,1234
+Creamy Garlic Butter Tuscan Shrimp,Seafood,1234
+Fried Foods,American,1234
+Hot dogs,American,1234
+Subs,American,1234
+Sandwiches,American,1234
+Jumbalaya,Cajun,124
+Shepards Pie,American,124
+Grilled Cheese,American,1234
+Huli Huli Chicken,Asian,3
+Citrus Shrimp Rice Bowls,Seafood,23
+Enchilada Soup,Mexican,124
+Chicken Fried Rice,Asian,1234
+Shrimp Fried Rice,Asian,1234
