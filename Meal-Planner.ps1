@@ -2,9 +2,13 @@ param ([string]$Month,[string]$Year)
 #Thanks to whomever built the following calendar
 #https://codepen.io/knyttneve/pen/QVqyNg
 
-$meals = gc ".\Meals.txt"
+$path = $MyInvocation.MyCommand.Path
+$folder = Split-Path $path -Parent
+$Quarter = "$("{0:0}" -f [Math]::ceiling((Get-date -f MM)/3) )"
+$meals = gc "$folder\Meals.txt" | where-object {$_ -like "*$Quarter*"} #We only want entries in the meals that can be cooked during this time period
 $meals_array = 0..($meals.count - 1)
-
+#Write-host $meals
+#pause
 if (!($Month))
 {
 	$FullDate = Get-Date
@@ -272,6 +276,6 @@ for ($r=2;$r -le 6;$r++)
 
 $html_doc+="</div></div></body></html>"
 
-$html_doc | out-file ".\$month_string$year_num.html"
+$html_doc | out-file "$folder\$month_string$year_num.html"
 
-Start-Process "chrome.exe" "$month_string$year_num.html"
+Start-Process "chrome.exe" "$folder\$month_string$year_num.html"
